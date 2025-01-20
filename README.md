@@ -10,6 +10,6 @@ Customized Workout Plans: The website suggests specific workout routines to impr
 Precautions: Provides necessary precautions or lifestyle changes to prevent the disease from worsening.
 
 ## Technologies Used
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS
 Backend: Flask (Python)
 Machine Learning: Scikit-learn (for disease prediction model)
